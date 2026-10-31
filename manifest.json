@@ -1,0 +1,13 @@
+{
+  "id": "deadlines-view",
+  "name": "Deadlines",
+  "description": "Open tasks, a month calendar, and an interactive project timeline of deadlines and fixed dates. Works offline on desktop and mobile.",
+  "version": "0.0.1",
+  "manifestVersion": 1,
+  "minSupVersion": "19.0.0",
+  "permissions": ["showIndexHtmlAsView"],
+  "hooks": [],
+  "iFrame": true,
+  "isSkipMenuEntry": false,
+  "icon": "icon.svg"
+}
